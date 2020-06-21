@@ -3,11 +3,8 @@ AWSprey - Bird is the word
 
 ### Installation
 
-Two parts:
-
 ```
-$ brew tap gamechanger/homebrew-awsprey
-$ brew install awsprey
+$ brew install gamechanger/brews/awsprey
 ```
 
 Set AWS credentials with priveleges to describe EC2 instances. This currently
