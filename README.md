@@ -6,7 +6,7 @@ AWSprey - Bird is the word
 Two parts:
 
 ```
-$ brew tap agamdua/homebrew-awsprey
+$ brew tap gamechanger/homebrew-awsprey
 $ brew install awsprey
 ```
 
